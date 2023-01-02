@@ -2,10 +2,10 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung2312&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jung2312&show_icons=true&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)
+
 </div>
 
 
