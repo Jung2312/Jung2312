@@ -1,7 +1,7 @@
 <div align=center>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung2312&show_icons=true&layout=compact&theme=react&layout=compact)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung2312&layout=compact&show_icons=true&layout=compact&theme=react)](https://github.com/metleeha)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jung2312&show_icons=true&layout=compact&theme=react) 
 <hr>
 </div>
