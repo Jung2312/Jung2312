@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung2312&layout=compact&theme=react)](https://github.com/metleeha)
 <hr>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jung2312&show_icons=true&layout=compact&theme=react)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jung2312&show_icons=true&layout=compact&theme=react)(https://github.com/metleeha)
 
 </div>
 
