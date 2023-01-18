@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Jung2312&show_icons=true&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung2312&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Jung2312&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;&nbsp;![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)
   
 
