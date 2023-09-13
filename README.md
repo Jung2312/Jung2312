@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung2312)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jung2312)](https://github.com/anuraghazra/github-readme-stats)
 
   
 </div>
