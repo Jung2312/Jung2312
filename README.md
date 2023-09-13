@@ -11,6 +11,7 @@
 <a href="https://www.notion.so/426458302c754ec99065cddf4e6340cf" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <a href="https://www.notion.so/426458302c754ec99065cddf4e6340cf" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href="https://jung2312.tistory.com/"target="_blank"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<br/>
 </div>
 
 <div align=center><h2> :star: STACKS</h2></div>
