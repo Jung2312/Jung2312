@@ -7,6 +7,7 @@
 <div align=center><h2> :star: BLOGS</h2></div>
 
 <div align=center>
+<br/>
 <a href="https://www.notion.so/426458302c754ec99065cddf4e6340cf" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <a href="https://www.notion.so/426458302c754ec99065cddf4e6340cf" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href="https://jung2312.tistory.com/"target="_blank"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"></a>
@@ -15,6 +16,7 @@
 <div align=center><h2> :star: STACKS</h2></div>
 
 <div align=center>
+<br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
