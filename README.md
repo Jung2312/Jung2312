@@ -10,6 +10,7 @@
   
 </div>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[waka_6093c178-8640-4cab-b721-be6f09158898])](https://wakatime.com/@jogilsang)
 
 <!--
 **Jung2312/Jung2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
