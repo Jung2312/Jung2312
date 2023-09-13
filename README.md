@@ -1,5 +1,5 @@
 <div align=center><h2> :star: BLOGS</h2></div>
-
+<img src="https://img.shields.io/badge/Notion-#000000?style=for-the-badge&logo=Notion&logoColor=white">
 <div align=center><h2> :star: STACKS</h2></div>
 
 <div align=center> 
