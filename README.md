@@ -6,11 +6,11 @@
 &nbsp;&nbsp;&nbsp;![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)
   
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[waka_6093c178-8640-4cab-b721-be6f09158898])](https://wakatime.com/@jogilsang)
 
   
 </div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[waka_6093c178-8640-4cab-b721-be6f09158898])](https://wakatime.com/@jogilsang)
 
 <!--
 **Jung2312/Jung2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
