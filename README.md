@@ -1,3 +1,7 @@
+<div align=center><h2> :star: BLOGS</h2></div>
+
+<div align=center><h2> :star: STACKS</h2></div>
+
 <div align=center> 
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)
@@ -10,10 +14,6 @@
 
 </div>
 
-<div align=center><h2> :star: STACKS</h2></div>
-
-
-<div align=center><h2> :star: BLOGS</h2></div>
 
 
 
