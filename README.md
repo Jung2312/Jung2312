@@ -1,8 +1,8 @@
 <div align=center> 
 
-[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Jung2312&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)
+
+[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Jung2312&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Jung2312&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,6 +12,8 @@
 
 <div align=center><h2> :star: STACKS</h2></div>
 
+
+<div align=center><h2> :star: BLOGS</h2></div>
 
 
 
