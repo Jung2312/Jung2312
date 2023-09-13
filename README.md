@@ -1,4 +1,5 @@
 <div align=center> 
+
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Jung2312&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)
@@ -9,7 +10,7 @@
 
 </div>
 
-<div align=center><h1> :dizzy: STACKS</h1></div>
+<div align=center><h2> :star: STACKS</h2></div>
 
 
 
