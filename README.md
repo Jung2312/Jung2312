@@ -1,6 +1,19 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap" rel="stylesheet">
+
+<style>
+
+h2 {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+</style>
+
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJung2312&count_bg=%238ECDDD&title_bg=%2322668D&icon=&icon_color=%23FFC9C9&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <br/><br/>
 
 </div>
@@ -10,7 +23,7 @@
 <div align=center>
 <br/>
 <a href="https://www.notion.so/426458302c754ec99065cddf4e6340cf" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-<a href="https://velog.io/@jung2312" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="https://www.notion.so/426458302c754ec99065cddf4e6340cf" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href="https://jung2312.tistory.com/"target="_blank"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"></a>
 <br/><br/>
 </div>
