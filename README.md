@@ -10,7 +10,7 @@
 
 </div>
 
-<div align=center><h2 style="font-family: 'Rajdhani', sans-serif;"> :star: BLOGS</h2></div>
+<div align=center><span style="font-family: 'Rajdhani', sans-serif;font-weight:700;font-size:20px"> :star: BLOGS</span></div>
 
 <div align=center>
 <br/>
@@ -20,7 +20,7 @@
 <br/><br/>
 </div>
 
-<div align=center><h2 style="font-family: 'Rajdhani', sans-serif;"> :star: STACKS</h2></div>
+<div align=center><span style="font-family: 'Rajdhani', sans-serif;font-weight:700;font-size:20px"> :star: STACKS</span></div>
 
 <div align=center>
 <br/>
