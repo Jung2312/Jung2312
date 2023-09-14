@@ -1,7 +1,4 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap" rel="stylesheet">
-
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJung2312&count_bg=%238ECDDD&title_bg=%2322668D&icon=&icon_color=%23FFC9C9&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -10,7 +7,7 @@
 
 </div>
 
-<div align=center><span style="font-family: 'Rajdhani', sans-serif;font-weight:700;font-size:20px"> :star: BLOGS</span></div>
+<div align=center><h2> :star: BLOGS</h2></div>
 
 <div align=center>
 <br/>
@@ -20,7 +17,7 @@
 <br/><br/>
 </div>
 
-<div align=center><span style="font-family: 'Rajdhani', sans-serif;font-weight:700;font-size:20px"> :star: STACKS</span></div>
+<div align=center><h2> :star: STACKS</h2></div>
 
 <div align=center>
 <br/>
