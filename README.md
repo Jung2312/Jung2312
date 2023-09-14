@@ -3,11 +3,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap" rel="stylesheet">
 
 <style>
-
 h2 {
     font-family: 'Rajdhani', sans-serif;
 }
-
 </style>
 
 <div align=center>
