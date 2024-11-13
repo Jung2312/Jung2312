@@ -48,7 +48,7 @@
 <div align=center>
 <br/><br/>
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)
+<!--![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jung2312)-->
 
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Jung2312&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
