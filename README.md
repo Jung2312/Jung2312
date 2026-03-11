@@ -1,11 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJung2312&count_bg=%238ECDDD&title_bg=%2322668D&icon=&icon_color=%23FFC9C9&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-<br/><br/>
-
-</div>
 
 <div align=center><h2> :star: BLOGS</h2></div>
 
